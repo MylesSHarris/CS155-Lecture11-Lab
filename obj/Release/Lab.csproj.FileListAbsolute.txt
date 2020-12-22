@@ -1,0 +1,4 @@
+/Users/MastaNicky/Projects/Lecture11/Lab/bin/Release/Lab.exe
+/Users/MastaNicky/Projects/Lecture11/Lab/obj/Release/Lab.csprojAssemblyReference.cache
+/Users/MastaNicky/Projects/Lecture11/Lab/obj/Release/Lab.csproj.CoreCompileInputs.cache
+/Users/MastaNicky/Projects/Lecture11/Lab/obj/Release/Lab.exe
